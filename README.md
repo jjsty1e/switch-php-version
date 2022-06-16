@@ -34,9 +34,9 @@ chmod +x /usr/local/bin/switch-php-version
 ## 🏃 使用
 
 ```bash
-switch-php-version 5.6
-switch-php-version 7.1
-switch-php-version 7.4
+$ switch-php-version 5.6
+$ switch-php-version 7.1
+$ switch-php-version 7.4
 ...
 ```
 
